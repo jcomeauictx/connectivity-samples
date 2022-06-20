@@ -34,3 +34,11 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+
+# Makefile
+android-sdk-licenses/
+android-sdk/
+overlay.tmp/
+../NearbyConnectionsCpp/android-sdk-licenses/
+../NearbyConnectionsCpp/android-sdk/
+../NearbyConnectionsCpp/overlay.tmp/
